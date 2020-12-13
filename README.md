@@ -5,4 +5,4 @@
 
 >> We train a model on 40.csv using Naive Bayes Classifier and predict the last missing word of the sentences in testset.
 
->> A posterior probability distribution is created of each word possible over the sentence and word with highest value is predcited.
+>> A posterior probability distribution is created of each word possible over the sentence and word with highest value is predicted.
